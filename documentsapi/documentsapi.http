@@ -1,0 +1,6 @@
+@documentsapi_HostAddress = http://localhost:5217
+
+GET {{documentsapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
